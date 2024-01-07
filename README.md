@@ -1,4 +1,4 @@
-# Marathon_EDA : TWO_CENTURIES_OF_UM_RACES'
+# Marathon_EDA(Using Python): TWO_CENTURIES_OF_UM_RACES'
 
 In this Python-based EDA on Kaggle's marathon dataset, I've used pandas and seaborn for efficient data exploration. Focusing on athlete age, speed, and race length, the goal is to reveal insights into performance.
 
